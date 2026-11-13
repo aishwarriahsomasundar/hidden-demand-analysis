@@ -1,0 +1,33 @@
+﻿sale_date,product,units_sold,availability,unit_price
+2026-10-13,Chicken Burrito,11,In stock all day,14.50
+2026-10-14,Chicken Burrito,13,In stock all day,14.50
+2026-10-15,Chicken Burrito,14,In stock all day,14.50
+2026-10-16,Chicken Burrito,18,In stock all day,14.50
+2026-10-17,Chicken Burrito,22,In stock all day,14.50
+2026-10-18,Chicken Burrito,17,In stock all day,14.50
+2026-10-19,Chicken Burrito,10,In stock all day,14.50
+2026-10-20,Chicken Burrito,12,In stock all day,14.50
+2026-10-21,Chicken Burrito,14,In stock all day,14.50
+2026-10-22,Chicken Burrito,15,In stock all day,14.50
+2026-10-23,Chicken Burrito,19,In stock all day,14.50
+2026-10-24,Chicken Burrito,13,Part-day stockout,14.50
+2026-10-25,Chicken Burrito,18,In stock all day,14.50
+2026-10-26,Chicken Burrito,12,In stock all day,14.50
+2026-10-27,Chicken Burrito,13,In stock all day,14.50
+2026-10-28,Chicken Burrito,4,In stock all day,14.50
+2026-10-29,Chicken Burrito,16,In stock all day,14.50
+2026-10-30,Chicken Burrito,20,In stock all day,14.50
+2026-10-31,Chicken Burrito,24,In stock all day,14.50
+2026-11-01,Chicken Burrito,19,In stock all day,14.50
+2026-11-02,Chicken Burrito,14,In stock all day,14.50
+2026-11-03,Chicken Burrito,12,In stock all day,14.50
+2026-11-04,Chicken Burrito,14,In stock all day,14.50
+2026-11-05,Chicken Burrito,15,In stock all day,14.50
+2026-11-06,Chicken Burrito,9,Part-day stockout,14.50
+2026-11-07,Chicken Burrito,23,In stock all day,14.50
+2026-11-08,Chicken Burrito,18,In stock all day,14.50
+2026-11-09,Chicken Burrito,0,Out of stock all day,14.50
+2026-10-19,Beef Burrito,7,In stock all day,15.50
+2026-10-26,Beef Burrito,8,In stock all day,15.50
+2026-11-02,Beef Burrito,9,In stock all day,15.50
+2026-11-09,Beef Burrito,0,Out of stock all day,15.50
